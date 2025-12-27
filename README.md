@@ -1,9 +1,8 @@
-# global-ai-attitudes-2025
 # Global AI Attitudes Report: 2025 
-Data: Pew Research Center Spring 2025 Global Attitudes Survey.
-Methodology: Analysis and visualization performed using R (ggplot2).
+**Data:** Pew Research Center Spring 2025 Global Attitudes Survey.
 
-Key Findings: High awareness in Western nations correlates with concern, while emerging markets like India show high trust in domestic regulation.
+**Methodology:** Analysis and visualization performed using R (ggplot2).
+
 **Author:** Ramazan Karagöz - Eskişehir Technical University
 
 ## 📂 Repository Contents
